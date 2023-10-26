@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @RevivedAstor
+- 👀 I’m interested in mastering Python and C++
+- 🌱 I’m currently learning Python
+- 💞️ I’m looking to collaborate on about any project especially if you are ready to take a newbie 
+- 📫 How to reach me discord: revivedastor
