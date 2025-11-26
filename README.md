@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @RevivedAstor
-- 👀 I’m interested in mastering Python, C++, and Java
+- 👀 I’m interested in mastering Python, Go, C++, and Java
 - 🌱 I’m currently learning all of those languages in my Computer Science Major
-- 💞️ I’m looking to collaborate on about any project especially if you are ready to take a newbie 
+- I’m looking to collaborate on about any project especially if you are ready to take a newbie 
